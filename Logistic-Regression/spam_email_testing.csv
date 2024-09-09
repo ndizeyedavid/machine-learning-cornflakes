@@ -1,0 +1,9 @@
+email_lenghth,word_free_freq,word_win_freq,word_click_freq,suspicious_words_freq,is_spam
+152,2,3,4,2,0
+485,6,9,2,34,1
+910,16,4,1,27,1
+320,12,0,0,2,0
+156,0,1,4,10,0
+156,12,1,1,2,1
+156,2,1,1,2,0
+156,42,21,14,2222,1
