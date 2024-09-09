@@ -1,6 +1,5 @@
-⚠️ I got lazy to create a jupyter notebook, so enjoy the way this is
-⚠️ Most of these contents are not included yet, but eventually i will in there future.
-    I have to first focus on mi national exam
+### ⚠️ I got lazy to create a jupyter notebook, so enjoy the way this is
+### ⚠️ Most of these contents are not included yet, but eventually i will in there future. I have to first focus on mi national exam
 
 
 # Machine Learning Algorithms in Python
